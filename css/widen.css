@@ -1,0 +1,6 @@
+#archive,#page,#category,#tag{
+    width:100%;
+}
+.page .aside-content{
+    display: none;
+}
